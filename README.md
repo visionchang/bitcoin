@@ -17,3 +17,6 @@
 
 - 助记词生成演示
   > [https://iancoleman.io/bip39/#english](https://iancoleman.io/bip39/#english)
+  
+- js 库
+  > [https://github.com/bitcoinjs/bitcoinjs-lib](https://github.com/bitcoinjs/bitcoinjs-lib)
