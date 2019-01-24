@@ -29,6 +29,6 @@
 - [slip44](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)    
   基于`bip44`，目前已注册的`coin_type'`
 - [bip141](https://github.com/bitcoin/bips/blob/master/bip-0141.mediawiki)    
-  - 定义 **隔离见证（segwit）**。隔离见证就是把**脚本签名（scriptSig）**信息从**基本结构（base block）**里拿出来，放在一个新的数据结构当中。做验证工作的节点和矿工也会验证这个新的数据结构里的脚本签名，以确保交易是有效的。    
+  - 定义 **隔离见证（segwit）**。隔离见证就是把 **脚本签名（scriptSig）** 信息从 **基本结构（base block）* 里拿出来，放在一个新的数据结构当中。做验证工作的节点和矿工也会验证这个新的数据结构里的脚本签名，以确保交易是有效的。    
   - 隔离见证可以缓解现在比特币拥堵问题，另外闪电网络也基于更多用户使用隔离见证地址。    
   - 隔离见证地址一般以3开头例如：`3JvL6Ymt8MVWiCNHC7oWU6nLeHNJKLZGLN`
